@@ -2,13 +2,10 @@ Week - 6: Codepen links
 
 grid project 1: https://codepen.io/Subhash-kumar-the-animator/pen/KwMjGPv
 
-layout 1: https://codepen.io/Subhash-kumar-the-animator/pen/gbMNdvV
-
 layout 2: https://codepen.io/Subhash-kumar-the-animator/pen/xbOoajz
 
 layout 3: https://codepen.io/Subhash-kumar-the-animator/pen/jErjvpV
 
-layout 4: https://codepen.io/Subhash-kumar-the-animator/pen/bNePxmp
 
 
 # Week 6 – Frontend Layout Assignments
